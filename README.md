@@ -27,7 +27,7 @@ Gus is a shoe company focused on providing customers with high-quality footwear 
 ## Installation
 Clone the repository:
 - git clone https://github.com/your-username/your-repository.git
--Navigate to the project directory.
+- Navigate to the project directory.
 
 ## Usage
 - Open the index.html file in a web browser to view the website locally.
