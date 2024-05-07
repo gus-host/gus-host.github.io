@@ -1,5 +1,5 @@
 # Gus Shoe Company Website
-This repository contains the HTML, CSS, and JavaScript code for the Gus Shoe Company website. Gus is a company dedicated to delivering high-quality shoes at affordable prices.
+This repository contains the HTML and CSS code for the Gus Shoe Company website. Gus is a company dedicated to delivering high-quality shoes at affordable prices.
 
 ## Table of Contents
 - Introduction
@@ -7,7 +7,6 @@ This repository contains the HTML, CSS, and JavaScript code for the Gus Shoe Com
 - Features
 - Installation
 - Contributing
-- License
 
 ## Introduction
 Gus is a shoe company focused on providing customers with high-quality footwear options at reasonable prices. This website serves as a platform for showcasing our products and allowing customers to make inquiries and purchases conveniently.
@@ -15,7 +14,6 @@ Gus is a shoe company focused on providing customers with high-quality footwear 
 ### Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Features
 - Responsive design for optimal viewing on various devices.
